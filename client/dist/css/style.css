@@ -1,0 +1,142 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: white;
+}
+
+.main{
+ 	margin-top: 70px;
+}
+
+h1.title {
+	font-size: 50px;
+	font-family: 'Passion One', cursive;
+	font-weight: 400;
+}
+
+hr{
+	width: 10%;
+	color: #fff;
+}
+
+p{
+  font-size: 16px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#searchBox
+{
+  margin-bottom:20px;
+  margin-top:20px;
+}
+
+
+img#imagePoster
+{
+  width:270;
+  height:399
+
+}
+.navbar{
+	background: #233237;
+}
+
+.navbar-toggle{
+	background-color: #CCCCCC;
+}
+
+.icon-bar{
+	border-width: thick;
+}
+
+.navbar-brand
+{
+	padding-left: 100px;
+	padding-top: 20px;
+	font-size: 20px;
+	font-family: cursive;
+	text-transform: uppercase;
+}
+
+.navbar ul li a{
+	color:#eee;
+	font-weight: bold;
+	font-size:18px;
+	font-family:Arial;
+	padding-top: 20px;
+  padding-right: 20px;
+}
+
+
+
+.navbar ul li a:hover{
+	color:black;
+	font-weight: bold;
+	font-family:Arial;
+	font-size:18px;
+	padding-top: 20px;
+}
+
+.btn{
+	height: auto;
+	width:auto;
+}
+
+
+#movieThing
+{
+  padding:20px;
+  margin:20px;
+  border:2px solid #000099;
+  border-radius: 25px;
+  background: linear-gradient(black, lightseagreen);
+  box-shadow: 10px -8px 12px -1px rgba(117,41,117,1);
+
+}
+
+body{
+  /*background-color: #CCCCCC;*/
+  background-image: url("bmd.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  margin-bottom: 12px;
+}
+
+#addMovie label{
+  font-size: 16px;
+}
+
+#addMovie
+{
+  margin: 50px;
+  background: linear-gradient(black, lightseagreen);
+  border:2px solid rgba(117,41,117,1);
+  border-radius: 35px;
+  padding: 50px;
+  box-shadow: 10px -8px 12px -1px rgba(117,41,117,1);
+}
+#homeBox
+{
+  margin-top: 100px;
+  background: linear-gradient(black, lightseagreen);
+
+  }
+.jumbotron
+{
+  background: linear-gradient(black, lightseagreen);
+}
+.panel
+{
+  background: linear-gradient(black, lightseagreen);
+}
+.panel-heading
+{
+  background: linear-gradient(black, lightseagreen);
+}
+#registerForm
+{
+    background: linear-gradient(black, lightseagreen);
+}
